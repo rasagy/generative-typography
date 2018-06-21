@@ -1,4 +1,4 @@
-# 36 Ways of Generating Type Project
+# 36 Ways of Generating Type
 
 Inspired by the [#36daysoftype](https://www.instagram.com/explore/tags/36daysoftype/) project, I decided to learn [P5.js](https://p5js.org/) by creating a set of 36 sketches, based on a word starting with each letter in the alphabet and ten digits.
 
